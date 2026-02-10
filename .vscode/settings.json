@@ -1,0 +1,9 @@
+{
+    //Visual Studio 
+    "cmake_generator": "Visual Studio 18 2022",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "C:/tools/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        "VCPKG_TARGET_TRIPLET": "x64-windows",
+    },
+}
